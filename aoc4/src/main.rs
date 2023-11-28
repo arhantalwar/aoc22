@@ -44,6 +44,6 @@ fn main() {
     }
 
     println!("Part 1 -> {:?}", total_num);
-    println!("Part 1 -> {:?}", total_num_no_lap);
+    println!("Part 2 -> {:?}", total_num_no_lap);
 
 }
